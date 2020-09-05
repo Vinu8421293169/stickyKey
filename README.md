@@ -1,3 +1,3 @@
 ---
-premlink:/index.html
+permalink:/index.html
 ---

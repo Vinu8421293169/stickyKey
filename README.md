@@ -1,2 +1,3 @@
-# stickyKey
-Created with CodeSandbox
+---
+premlink:/index.html
+---
